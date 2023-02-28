@@ -1,0 +1,9 @@
+{
+  "name": "sapuseven-badges",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A custom badge generator",
+  "main": "index.ts",
+  "author": "SapuSeven",
+  "license": "MIT"
+}
