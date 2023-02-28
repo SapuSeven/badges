@@ -11,5 +11,10 @@
   },
   "devDependencies": {
     "esbuild": "^0.17.10"
+  },
+  "dependencies": {
+    "anafanafo": "^2.0.0",
+    "svg-builder": "^2.0.0",
+    "svgpath": "^2.6.0"
   }
 }
