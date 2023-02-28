@@ -1,9 +1,15 @@
 {
   "name": "sapuseven-badges",
-  "type": "module",
   "version": "1.0.0",
   "description": "A custom badge generator",
   "main": "index.ts",
   "author": "SapuSeven",
-  "license": "MIT"
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "npx esbuild index.ts --bundle --outfile=build/bundle.cjs --format=cjs --platform=node"
+  },
+  "devDependencies": {
+    "esbuild": "^0.17.10"
+  }
 }
