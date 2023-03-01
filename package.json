@@ -9,6 +9,9 @@
   "scripts": {
     "build": "npx esbuild index.ts --bundle --outfile=build/bundle.cjs --format=cjs --platform=node"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sapuseven/sapuseven-badges.git"
