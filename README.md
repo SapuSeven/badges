@@ -36,9 +36,11 @@ Result:
 
 ### Available Icons
 
-<div style="display: flex; flex-wrap: wrap; text-align: center; gap: 16px;">
-  <div style="display: flex; flex-direction: column">
-    <img src="./icons/qmk.svg"/>
-    <span>qmk</span>
-  </div>
-</div>
+<table>
+  <tr>
+    <td><img src="./icons/qmk.svg"/></td>
+  </tr>
+  <tr align="center">
+    <td>qmk</td>
+  </tr>
+</table>
