@@ -29,14 +29,16 @@ const options = {
 console.log(badge(options))
 ```
 
+Result:
+<!-- all options: https://api.sapuseven.com/badges/svg?h=80&w=280&t=QMK%20Firmware&t2=powered%20by&r=8&ic=qmk&icScale=0.7 -->
+<!-- omitting defaults: https://api.sapuseven.com/badges/svg?t=QMK%20Firmware&t2=powered%20by&ic=qmk -->
 <img src="./docs/example-badge-qmk.svg"/>
-
-<!-- https://api.sapuseven.com/badges/svg?&h=80&w=280&t=QMK%20Firmware&t2=powered%20by&r=8&ic=qmk&icScale=0.7 -->
 
 ### Available Icons
 
 <div style="display: flex; flex-wrap: wrap; text-align: center; gap: 16px;">
   <div style="display: flex; flex-direction: column">
-    <img src="./icons/qmk.svg"/> qmk
+    <img src="./icons/qmk.svg"/>
+    <span>qmk</span>
   </div>
 </div>
