@@ -1,4 +1,4 @@
-# sapuseven-badges
+# Badges
 
 A library to create badges in the style of "Google Play" and similar.
 
@@ -11,7 +11,7 @@ TODO
 ## Usage
 
 ```typescript
-import badge from 'sapuseven-badges'
+import badge from '@sapuseven/badges'
 
 // All options besides `t` are optional
 const options = {

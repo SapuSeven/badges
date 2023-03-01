@@ -19,8 +19,8 @@ jobs:
         with:
           node-version: 16
           registry-url: https://npm.pkg.github.com/
+          scope: '@sapuseven'
       - run: yarn install
-      - run: yarn build
       - run: yarn publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
