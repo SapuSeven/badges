@@ -48,8 +48,12 @@ Result:
 <table>
   <tr>
     <td><img src="./icons/qmk.svg"/></td>
+    <td><img src="./icons/tindie.svg"/></td>
+    <td><img src="./icons/etsy.svg"/></td>
   </tr>
   <tr align="center">
     <td>qmk</td>
+    <td>tindie</td>
+    <td>etsy</td>
   </tr>
 </table>
