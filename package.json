@@ -4,6 +4,7 @@
   "description": "A custom badge generator",
   "main": "index.ts",
   "author": "SapuSeven",
+  "license" : "MIT",
   "type": "module",
   "private": true,
   "scripts": {
