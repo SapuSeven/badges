@@ -1,6 +1,6 @@
 {
   "name": "@sapuseven/badges",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A custom badge generator",
   "main": "index.ts",
   "author": "SapuSeven",
