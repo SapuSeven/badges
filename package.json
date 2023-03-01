@@ -4,7 +4,7 @@
   "description": "A custom badge generator",
   "main": "index.ts",
   "author": "SapuSeven",
-  "license" : "MIT",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "build": "npx esbuild index.ts --bundle --outfile=build/bundle.cjs --format=cjs --platform=node"

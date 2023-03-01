@@ -6,7 +6,16 @@ It's currently used in the API for my website (`GET https://api.sapuseven.com/ba
 
 ## Installation
 
-TODO
+### Yarn
+
+```shell
+yarn add sapuseven/badges
+```
+
+### NPM
+```shell
+npm install sapuseven/badges
+```
 
 ## Usage
 
